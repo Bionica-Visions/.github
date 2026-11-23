@@ -22,12 +22,12 @@ Somos una fundación que impulsa el desarrollo social a través de la prevenció
 salud visual. Mediante alianzas con entidades públicas y privadas, subsidiamos servicios
 diagnósticos y asistenciales para que más personas accedan a una atención visual de calidad.
 
-| | |
+| Servicio | Descripción |
 | --- | --- |
-| 👁️ **Plan de Previsión Visual** | Afiliación individual y corporativa con subsidios en consultas, ayudas diagnósticas, lentes y monturas. |
-| 🏥 **Red de clínicas aliadas** | Atención con oftalmólogos y supraespecialistas (retina, glaucoma, córnea, oftalmopediatría y más) con tarifas especiales. |
-| 🏢 **Bienestar empresarial** | Brigadas de examen visual para los colaboradores de empresas afiliadas. |
-| 📍 **Centros de Salud Visual** | Sedes propias en Antioquia para valoración, optometría y entrega de lentes. |
+| **Plan de Previsión Visual** | Afiliación individual y corporativa con subsidios en consultas, ayudas diagnósticas, lentes y monturas. |
+| **Red de clínicas aliadas** | Atención con oftalmólogos y supraespecialistas (retina, glaucoma, córnea, oftalmopediatría y más) con tarifas especiales. |
+| **Bienestar empresarial** | Brigadas de examen visual para los colaboradores de empresas afiliadas. |
+| **Centros de Salud Visual** | Sedes propias en Antioquia para valoración, optometría y entrega de lentes. |
 
 **Nuestra visión 2030:** ser la red de previsión visual con mayor impacto social en Colombia y
 llegar a **un millón de afiliados** beneficiados por nuestros programas.
@@ -65,9 +65,9 @@ estos principios:
 
 ## Contacto
 
-- 🌐 Sitio web y afiliaciones: [bionicavisions.com.co](https://bionicavisions.com.co)
-- 💬 WhatsApp: [+57 318 200 0009](https://wa.me/573182000009)
-- 🔐 ¿Encontraste una vulnerabilidad? Lee nuestra [política de seguridad](https://github.com/Bionica-Visions/.github/blob/main/SECURITY.md).
+- Sitio web y afiliaciones: [bionicavisions.com.co](https://bionicavisions.com.co)
+- WhatsApp: [+57 318 200 0009](https://wa.me/573182000009)
+- ¿Encontraste una vulnerabilidad? Lee nuestra [política de seguridad](https://github.com/Bionica-Visions/.github/blob/main/SECURITY.md).
 - Síguenos en [LinkedIn](https://co.linkedin.com/company/bionica-visions),
   [Instagram](https://www.instagram.com/somosbionicavisions/),
   [Facebook](https://www.facebook.com/people/Fundaci%C3%B3n-Bi%C3%B3nica-Visions/61588612087953/),
@@ -76,7 +76,7 @@ estos principios:
 
 ---
 
-<sub>🇬🇧 **In English:** Fundación Biónica Visions is a Colombian non-profit that runs a visual-health
+<sub>**In English:** Fundación Biónica Visions is a Colombian non-profit that runs a visual-health
 prevention plan, subsidizing optometry, ophthalmology, diagnostics, lenses and frames for
 individuals and companies. Our tech team builds the platform behind memberships, appointments,
 sales and process automation.</sub>

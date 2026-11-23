@@ -10,12 +10,13 @@
 
 <!-- Pruebas automáticas, pasos manuales, capturas (sin datos reales de afiliados). -->
 
-## Lista de verificación
+## Notas para la revisión
 
-- [ ] El CI pasa (lint, formato, pruebas y build).
-- [ ] Agregué o actualicé pruebas para este cambio.
-- [ ] No incluye secretos, archivos `.env` ni datos reales de afiliados.
-- [ ] Si toca permisos, autenticación o datos personales, lo marqué para revisión de seguridad.
-- [ ] Si cambia modelos, incluye las migraciones y se pueden revertir.
-- [ ] Si agrega variables de entorno, actualicé `.env.example` y la documentación.
-- [ ] Actualicé el README o la documentación, si aplica.
+<!--
+Menciona aquí lo que aplique y borra este comentario:
+- Cambios en permisos, autenticación o datos personales (requieren revisión de seguridad).
+- Migraciones de base de datos y si se pueden revertir.
+- Variables de entorno nuevas (actualiza .env.example y la documentación).
+Recuerda: el CI debe pasar y el PR no puede incluir secretos, archivos .env ni datos reales de afiliados.
+-->
+
