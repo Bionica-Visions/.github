@@ -1,0 +1,51 @@
+name: Solicitar una funcionalidad
+description: Propón una mejora o algo nuevo.
+title: "[Mejora] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problema
+    attributes:
+      label: ¿Qué problema resuelve?
+      description: Cuéntanos la necesidad, no solo la solución. ¿A quién afecta y con qué frecuencia?
+      placeholder: "Ej.: El equipo comercial tarda mucho en ... porque ..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: propuesta
+    attributes:
+      label: Propuesta
+      description: ¿Cómo te imaginas la solución?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Área que lo solicita
+      options:
+        - Afiliaciones
+        - Comercial
+        - Atención al afiliado / PQRS
+        - Operaciones y citas
+        - Finanzas
+        - Tecnología
+        - Dirección
+        - Otra
+    validations:
+      required: true
+
+  - type: textarea
+    id: criterios
+    attributes:
+      label: ¿Cómo sabremos que está listo?
+      description: Criterios de aceptación.
+      placeholder: |
+        - [ ] El usuario puede ...
+        - [ ] Se muestra ...
+
+  - type: textarea
+    id: alternativas
+    attributes:
+      label: Alternativas consideradas

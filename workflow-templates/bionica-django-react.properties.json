@@ -1,0 +1,7 @@
+{
+  "name": "Biónica: Django + React con GHCR",
+  "description": "Lint, pruebas y build de backend Django y frontend React/Vite; publica imágenes Docker en GHCR al fusionar en la rama principal.",
+  "iconName": "octicon package",
+  "categories": ["Python", "TypeScript", "Docker", "Continuous integration"],
+  "filePatterns": ["^docker-compose\\.ya?ml$", "^compose\\.ya?ml$"]
+}
