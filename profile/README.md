@@ -10,7 +10,6 @@ exámenes diagnósticos, lentes y monturas para personas y empresas en Colombia.
 
 [![Sitio web](https://img.shields.io/badge/bionicavisions.com.co-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bionicavisions.com.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://co.linkedin.com/company/bionica-visions)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/somosbionicavisions/)
 
 </div>
 
