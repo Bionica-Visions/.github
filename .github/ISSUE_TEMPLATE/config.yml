@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Reportar una vulnerabilidad de seguridad
+    url: https://github.com/Bionica-Visions/.github/blob/main/SECURITY.md
+    about: No publiques vulnerabilidades en issues. Sigue nuestra política de seguridad.
+  - name: Planes, afiliaciones y citas
+    url: https://bionicavisions.com.co
+    about: Información para afiliados y empresas.
